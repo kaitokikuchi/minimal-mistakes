@@ -17,9 +17,9 @@ Current interests include:
 *phenotypic variation
 *gene expression fluctuation
 *single-cell analysis
-*antibiotic persistence
+*antibiotic persistence  
 
-I love to bike, travel, drink coffee, and Japanese Sake (Jikon (而今) is my current favorite).
+I love to bike, travel, drink coffee, and Japanese Sake (Jikon 而今 is my current favorite).
 
 
 <div markdown="0"><a href="{{ site.url }}/assets/pdf/cv.pdf" class="btn">Download CV</a></div>
