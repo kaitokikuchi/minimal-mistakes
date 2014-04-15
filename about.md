@@ -18,7 +18,6 @@ Current interests include phenotypic variation, gene expression fluctuation, sin
 
 For a detailed account on my background please refer to my CV.
 
-
-<a markdown="0" href="{{ site.url }}/assets/pdf/cv.pdf" class="btn">Download CV</a>
+<div markdown="0"><a href="{{ site.url }}/assets/pdf/cv.pdf" class="btn">Download CV</a></div>
 
 
