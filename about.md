@@ -5,7 +5,7 @@ title: About Me
 tagline: 
 tags: [about]
 modified: 14-4-2014
-comments: true
+comments: false
 image:
   feature: background-dye.jpg
   credit: Kaito Kikuchi
