@@ -37,10 +37,10 @@ bing_verify:
 links:
   - title: About
     url: /about/
+  - title: Works
+    url: /works/
   - title: Posts
     url: /posts/
-  - title: Theme Setup
-    url: /theme-setup/
   #- title: Made Mistakes
   #  url: http://mademistakes.com
   #  external: true
