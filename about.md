@@ -17,7 +17,7 @@ Current interests include:
 *phenotypic variation
 *gene expression fluctuation
 *single-cell analysis
-*antibiotic persistence  
+*antibiotic persistence
 
 I love to bike, travel, drink coffee, and Japanese Sake (Jikon 而今 is my current favorite).
 
