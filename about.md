@@ -13,7 +13,6 @@ image:
 ---
 
 I am a Masters student at the University of Tokyo, studying cellular heterogeneity under Prof. Yuichi Wakamoto. 
-
 Current interests include:
 
 - phenotypic variation
