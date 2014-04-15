@@ -12,10 +12,10 @@ image:
   creditlink: 
 ---
 
-I am a Masters student at the University of Tokyo, studying cellular heterogeneity under Prof. Yuichi Wakamoto. 
+I am a Masters student at the University of Tokyo, studying cellular heterogeneity under Prof. Yuichi Wakamoto.   
 
 
-Current interests include: phenotypic variation, gene expression fluctuation, single-cell analysis, antibiotic persistence, and bioinformatics (statistics).
+Current interests include: phenotypic variation, gene expression fluctuation, single-cell analysis, antibiotic persistence, and bioinformatics (statistics).  
 
 
 I love to bike, travel, drink coffee, and Japanese Sake (Jikon 而今 is my current favorite).
