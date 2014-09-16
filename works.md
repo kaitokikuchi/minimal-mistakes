@@ -2,7 +2,7 @@
 layout: page
 permalink: /works/
 title: Works
-description: "Past Presentations and Publications"
+description: "Past Publications and Presentations"
 tags: []
 image:
   feature: background-dye.jpg
