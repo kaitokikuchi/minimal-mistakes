@@ -10,7 +10,7 @@ comments: true
 Hi there! Long time no see huh? Like.... just 5 months! what....
 
 ## My first term at Todai
-You know, its quite tedious to do something (or more usually, somethings) while thinking about another deadline coming up ahead. And turns out that attending Gradschool is to juggle multiple deadlines, do research, and try to live your life all at the same time. \\
+You know, its quite distressing to do something (or more usually, somethings) while thinking about another deadline coming up ahead. And turns out that attending Gradschool is to juggle multiple deadlines, do research, and try to live your life all at the same time. \\
 \\
 In short, I'm immensely relaxed right now because I have gone through all the deadlines I had (at least, all that I could remember). I've taken 22 units of coursework in my first term (April 2014 ~ August 2014), which is quite a lot considering that the total requirement for the 2-year Master's course is 30 units. And adapting to a new school and starting a research project is no child's play either.\\
 \\
