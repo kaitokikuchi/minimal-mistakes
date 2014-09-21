@@ -10,10 +10,10 @@ comments: true
 Hi there! Long time no see huh? Like.... just 5 months! Pshaw, nothing to fuss about.
 
 ## My first term at Todai
-You know, its quite tedious to do something (or more usually, somethings) while thinking about another deadline coming up ahead. And attending Gradschool is to juggle multiple deadlines, do research, and try to live your life all at the same time. 
-
-In short, I'm immensely relaxed right now because I have gone through all the deadlines I had (at least, all that I could remember). I've taken 22 units of coursework in my first term (April 2014 ~ August 2014), which is quite a lot considering that the total requirement for the 2-year Master's course is 30 units. And adapting to a new school and starting a research project is no child's play either.
-
+You know, its quite tedious to do something (or more usually, somethings) while thinking about another deadline coming up ahead. And attending Gradschool is to juggle multiple deadlines, do research, and try to live your life all at the same time. \\
+\\
+In short, I'm immensely relaxed right now because I have gone through all the deadlines I had (at least, all that I could remember). I've taken 22 units of coursework in my first term (April 2014 ~ August 2014), which is quite a lot considering that the total requirement for the 2-year Master's course is 30 units. And adapting to a new school and starting a research project is no child's play either.\\
+\\
 I'm happy to say that the transition had gone smoothly. My new supervisor Yuichi Wakamoto is an absolute gentleman and unfathomably sharp. I got to make a lot of brilliant friends, mostly through [a graduate program](http://ihs.c.u-tokyo.ac.jp/en/) that I got into besides my department major. I found a [great coffee roaster/cafe](http://tabelog.com/tokyo/A1318/A131810/13162503/) just behind the campus. And starting research is a very exciting process in itself.
 
 ## Right now
