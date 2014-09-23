@@ -5,8 +5,8 @@ description: "Yes I'm up and alive"
 tags: [graduate-school]
 comments: true
 image:
-	feature: background-dye.jpg
-	credit: Kaito Kikuchi
+ feature: background-dye.jpg
+ credit: Kaito Kikuchi
 ---
 
 ## Long Overdue Update

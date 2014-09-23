@@ -5,8 +5,8 @@ description: "First step into the English bloggerverse"
 tags: [miscellaneous]
 comments: true
 image:
-	feature: background-dye.jpg
-	credit: Kaito Kikuchi
+ feature: background-dye.jpg
+ credit: Kaito Kikuchi
 ---
 
 ## Well Hello!
