@@ -4,6 +4,9 @@ title: Started Github Pages
 description: "First step into the English bloggerverse"
 tags: [miscellaneous]
 comments: true
+image:
+	feature: background-dye.jpg
+	credit: Kaito Kikuchi
 ---
 
 ## Well Hello!
