@@ -41,9 +41,9 @@ links:
     url: /works/
   - title: Posts
     url: /posts/
-  #- title: Made Mistakes
-  #  url: http://mademistakes.com
-  #  external: true
+  - title: Lab Notebook
+    url: http://wiki.kaito.co
+    external: true
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone:    Asia/Tokyo
