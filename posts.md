@@ -5,6 +5,6 @@ title: All Posts
 tagline: A List of Posts
 tags: [blog]
 image:
- feature: background-dye.jpg
+ feature: background-eclipse.jpg
  credit: Kaito Kikuchi
 ---
