@@ -12,7 +12,7 @@ image:
 
 ## Publications
 
-Takeshi Hase[^1], **Kaito Kikuchi**[^1], Samik Ghosh[^1], Hiroaki Kitano, and Hiroshi Tanaka **"Identification of drug-target modules in the human protein-protein interaction network"** *Artificial Life and Robotics* (In press)
+Takeshi Hase[^1], **Kaito Kikuchi**[^1], Samik Ghosh[^1], Hiroaki Kitano, and Hiroshi Tanaka **"Identification of drug-target modules in the human protein-protein interaction network"** *Artificial Life and Robotics* (November 2014)
 
 [^1]: Equal contribution
 
