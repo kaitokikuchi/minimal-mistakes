@@ -25,7 +25,7 @@ Takeshi Hase[^a], **Kaito Kikuchi**[^a], Samik Ghosh[^a], Hiroaki Kitano, and Hi
 ## Talks
 
 [Peer-Reviewed] **Kaito Kikuchi**, Takeshi Hase, Samik Ghosh, and Hiroaki Kitano **"A network guided approach towards identification of novel drug targets in MRSA"** *8th Asian Young Researchers Conference on Computational and Omics Biology (AYRCOB)* (January 2015)
-
+\\
 **Kaito Kikuchi**, Kazune Ezaki, Hanaka Mera, Keiichiro Hiratsu, Tatsuo Nunoshiba (November 2013) **“Role of DNA repair in Thermus thermophilus genomic integrity ~Analyzing through a Homologous Recombination Detection System”** 42nd Annual Meeting of the Japanese Environmental Mutagen Society (JEMS)\\
 \\
 **Kaito Kikuchi**, Kazune Ezaki, Hanaka Mera, Keiichiro Hiratsu, Tatsuo Nunoshiba (June 2013) **“Evaluation of a Homologous Recombination Detection System in Thermus thermophilus”** 26th Summer School of Mutagenesis Mechanisms
