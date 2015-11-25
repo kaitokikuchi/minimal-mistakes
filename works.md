@@ -27,7 +27,7 @@ Takeshi Hase[^1], **Kaito Kikuchi**[^1], Samik Ghosh[^1], Hiroaki Kitano, and Hi
 
 ## Poster Presentations
 
-**Kaito Kikuchi**, Yuichi Wakamoto, and Hidenori Nakaoka **"Single-Cell Measurement of Cytoplasm Fluidity” *QBiC Symposium 2015"** (August 2015)\\
+**Kaito Kikuchi**, Yuichi Wakamoto, and Hidenori Nakaoka **"Single-Cell Measurement of Cytoplasm Fluidity”** *QBiC Symposium 2015"* (August 2015)\\
 \\
 **Kaito Kikuchi**, Yuichi Wakamoto, and Hidenori Nakaoka **“Single-Cell Measurement of Cytoplasm Fluidity”** *The Third Annual Winter Q-bio Meeting* (February 2015)\\
 \\
