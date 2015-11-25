@@ -16,13 +16,8 @@ Takeshi Hase[^1], **Kaito Kikuchi**[^1], Samik Ghosh[^1], Hiroaki Kitano, and Hi
 
 [^1]: Equal contribution
 
-## Conference Proceedings
 
-Takeshi Hase[^a], **Kaito Kikuchi**[^a], Samik Ghosh[^a], Hiroaki Kitano, and Hiroshi Tanaka **"Identification of drug-target modules in the human protein-protein interaction network"** *Proceedings of the Nineteenth International Symposium on Artificial Life and Robotics* (January 2014)
-
-[^a]: Equal contribution
-
-## Talks
+## Oral Presentations
 
 [Peer-Reviewed] **Kaito Kikuchi**, Takeshi Hase, Samik Ghosh, and Hiroaki Kitano **"A network guided approach towards identification of novel drug targets in MRSA"** *8th Asian Young Researchers Conference on Computational and Omics Biology (AYRCOB)* (January 2015)\\
 \\
@@ -31,6 +26,10 @@ Takeshi Hase[^a], **Kaito Kikuchi**[^a], Samik Ghosh[^a], Hiroaki Kitano, and Hi
 **Kaito Kikuchi**, Kazune Ezaki, Hanaka Mera, Keiichiro Hiratsu, Tatsuo Nunoshiba **“Evaluation of a Homologous Recombination Detection System in Thermus thermophilus”** *26th Summer School of Mutagenesis Mechanisms* (June 2013) 
 
 ## Poster Presentations
+
+**Kaito Kikuchi**, Yuichi Wakamoto, and Hidenori Nakaoka “Single-Cell Measurement of Cytoplasm Fluidity” *QBiC Symposium 2015* (August 2015) \\
+
+**Kaito Kikuchi**, Yuichi Wakamoto, and Hidenori Nakaoka “Single-Cell Measurement of Cytoplasm Fluidity” *The Third Annual Winter Q-bio Meeting* (February 2015) \\ 
 
 **Kaito Kikuchi**, Kazune Ezaki, Hanaka Mera, Keiichiro Hiratsu, Tatsuo Nunoshiba **“Role of DNA repair in Thermus thermophilus genomic integrity ~Analyzing through a Homologous Recombination Detection System”** *42nd Annual Meeting of the Japanese Environmental Mutagen Society (JEMS)* (November 2013)\\
 \\
