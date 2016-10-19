@@ -2,23 +2,21 @@
 layout: page
 permalink: /about/
 title: About Me
-tagline: 
+tagline:
 tags: [about]
 modified: 14-4-2014
 comments: false
 image:
   feature: background-dye.jpg
   credit: Kaito Kikuchi
-  creditlink: 
+  creditlink:
 ---
 
-I am a Master's student studying cellular heterogeneity at the [Yuichi Wakamoto lab](http://park.itc.u-tokyo.ac.jp/wakamoto-lab/index_e.html), the University of Tokyo. Research projects involve measuring E. coli cytoplasm fluidity and developing an optogenetic system, both at the single-cell level. \\
+I am a Ph.D student at the [Division of Biological Sciences](http://biology.ucsd.edu/), UC San Diego. I am interested in quantitative analyses of microbial community dynamics, and am affiliated with the [qBio Specialization](http://qbio.ucsd.edu/). \\
 \\
-I am also affiliated with the Systems Biology Institute as a Student Research Assistant, where I work on a Protein-Protein Interaction Network analysis project. \\
+I got my Masters from the [University of Tokyo](http://park.itc.u-tokyo.ac.jp/wakamoto-lab/index_e.html) doing *E. coli* single cell observations, and was a Research Assistant at the [Systems Biology Institute](http://sbi.jp/aboutSBI.htm) mining PPi Networks. \\
 \\
-In my free time I love to bike, travel, drink coffee, and enjoy Japanese Sake (Kazenomori 風の森 is my current favorite). I take photos with my NIKON D7000 and send them over to my iPhone for editing (WiFi-enabled SD cards are the BEST).
+In my free time I love to (body)surf at the beach, bike, travel, and drink coffee/beer.
 
 
 <div markdown="0"><a href="{{ site.url }}/assets/pdf/cv.pdf" class="btn">Download CV</a></div>
-
-
