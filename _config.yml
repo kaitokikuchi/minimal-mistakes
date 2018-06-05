@@ -1,5 +1,7 @@
 title:            Kaito Kikuchi
 description:      QBio PhD student at UC San Diego.
+remote_theme: "mmistakes/minimal-mistakes"
+
 # Your site's domain goes here. Leave localhost server or blank when working locally.
 url:              http://www.kaito.co
 disqus_shortname: kaitokikuchi
@@ -13,10 +15,10 @@ owner:
   # Social networking links are used in author-bio sidebar. Update and remove as you like.
   twitter:        kickingkite
   facebook:
-  github:
+  github:         kaitokikuchi
   stackoverflow:
   linkedin:       kaitokikuchi
-  instagram:
+  instagram:      pioneerboy
   lastfm:
   tumblr:
   pinterest:
@@ -42,11 +44,11 @@ links:
   - title: Posts
     url: /posts/
   - title: Lab Notebook
-    url: http://wiki.kaito.co
+    url: https://www.notion.so/suellab/Labwork-Home-8436e5d5b113462cb4780c88d9df2dea
     external: true
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
-timezone:    Asia/Tokyo
+timezone:    America/Los_Angeles
 future:      true
 pygments:    true
 markdown:    kramdown
